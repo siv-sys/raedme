@@ -46,3 +46,9 @@ normal text
     2. List 2
         1. List 1
         2. List 2
+
+## Image
+![alt text](image-1.png)
+
+## Link 
+CSS Framwork [Bosststrap](https://getbootstrap.com/)
