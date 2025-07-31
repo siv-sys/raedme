@@ -78,3 +78,7 @@ composer install
 
 ## Badge
 [![app](https://img.shields.io/badge/Learning_Markdown-tutorial-cyan)](https://www.w3schools.com/)
+
+## Contributor
+
+- [@siv-sys](https://github.com/siv-sys/raedme) - Developer
