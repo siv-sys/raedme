@@ -52,3 +52,23 @@ normal text
 
 ## Link 
 CSS Framwork [Bosststrap](https://getbootstrap.com/)
+
+## Single line code
+`print("Hello world")`
+
+## Multiple line
+```python
+for i in range(10):
+    print(i)
+```
+---
+```html
+<h1>Hello world</h1>
+<p>Welcome to my world<p>
+```
+---
+``` bash
+npm i express
+pip install cv2
+composer install
+```
