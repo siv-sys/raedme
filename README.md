@@ -74,7 +74,7 @@ composer install
 ```
 
 ## Button
-<a href="https://www.youtube.com/" target="_blank_">Youtub</a>
+<a href="https://www.youtube.com/" target="_blank">Youtub</a>
 
 ## Badge
-[![app](https://img.shields.io/badge/Learning-Markdown-midnightblue)]()
+[![app](https://img.shields.io/badge/Learning_Markdown-tutorial-cyan)](https://www.w3schools.com/)
