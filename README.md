@@ -75,3 +75,6 @@ composer install
 
 ## Button
 <a href="https://www.youtube.com/" target="_blank_">Youtub</a>
+
+## Badge
+[![app](https://img.shields.io/badge/Learning-Markdown-midnightblue)]()
