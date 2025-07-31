@@ -17,5 +17,14 @@ normal text
 ## Check list
 - [x] Task 1
 - [x] Task 2
+---
 - [ ] Task 3
 - [ ] Task 4
+
+## Table
+| id | name | age | status |
+|----|------|-----|--------|
+| 01 | Rady | 30  |  True  |
+|----|------|-----|--------|
+| 02 | Siv  | 18  |  True  |
+|----|------|-----|--------|
